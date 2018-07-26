@@ -1,0 +1,46 @@
+.orange {
+    background-image: url("https://images.pexels.com/photos/7059/man-people-space-desk.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: 'Glegoo', serif;
+}
+.blue {
+    background-color:rgb(100, 100, 255);
+    font-family: 'Glegoo', serif;
+}
+.white {
+    background-color:white;
+    font-family: 'Glegoo', serif;
+}
+.map-bg{
+    background-image: url("https://images.pexels.com/photos/7979/night-camera-lens-map.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size: auto;
+    font-family: 'Glegoo', serif;
+}
+.black {
+    background-color:black;
+    color:white;
+    font-family: 'Glegoo', serif;
+}
+.red {
+    color:maroon;
+}
+.container-fluid {
+    height: 100vh;
+  }
+  
+  .row-h {
+    height:30%;
+    overflow: hidden;
+  }
+  .pad-bottom{
+      padding-bottom:20px;
+  }
+.footer {
+    height:10%;
+}
+.txt-white {
+    color:white;
+
+}
